@@ -10,6 +10,6 @@
 ### Install Trix strategy
 > bash Live-Tools-V2/install.sh trix_multi_bitmart
 
-Lancer le script manuellement:
+Lancer le script de la strategie manuellement:
 
 > bash Live-Tools-V2/1hcron.sh
